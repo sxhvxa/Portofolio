@@ -1,10 +1,11 @@
 .jumbotron {
   padding-top: 6rem;
-  background-color: #c5bfbf;
+  background-color: #e48d8d;
 }
 
 #Gallery {
   background-color: #c5bfbf;
+  padding-top: 3rem;
 }
 section {
   padding-top: 5rem;
